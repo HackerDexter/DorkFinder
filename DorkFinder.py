@@ -1,15 +1,8 @@
 import urllib2, re
 import sqlcrawler, mailcrawler
 print """DorkFinder
- _   __                   ___                  
-| | / /                  / _ \                 
-| |/ /  __ _ _ __ __ _  / /_\ \_   _  __ _ ____
-|    \ / _` | '__/ _` | |  _  | | | |/ _` |_  /
-| |\  \ (_| | | | (_| | | | | | |_| | (_| |/ / 
-\_| \_/\__,_|_|  \__,_| \_| |_/\__, |\__,_/___|
-                                __/ |          
-                               |___/
-DorkFinder & SQLCrawler & MailCrawler | karaayaz_"""
+www.turkz.org / Turkz Ar-Ge Grup / esw0rmer or sagolera
+DorkFinder & SQLCrawler & MailCrawler"""
 print """
     [1] DorkFinder
     [2] SQLCrawler
